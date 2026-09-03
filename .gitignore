@@ -1,3 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+db.sqlite3
+
 # Dependencies
 node_modules/
 
